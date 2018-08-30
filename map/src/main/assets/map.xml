@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<parts>
+    <part id="1">
+        <name>电梯</name>
+        <l>0</l>
+        <t>0</t>
+        <r>200</r>
+        <b>100</b>
+    </part>
+    <part id="2">
+        <name>卫生间</name>
+        <l>200</l>
+        <t>100</t>
+        <r>500</r>
+        <b>200</b>
+    </part>
+    <part id="3">
+        <name>办公区</name>
+        <l>500</l>
+        <t>200</t>
+        <r>800</r>
+        <b>400</b>
+    </part>
+</parts>
